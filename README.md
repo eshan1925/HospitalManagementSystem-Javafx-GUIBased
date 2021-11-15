@@ -1,3 +1,6 @@
+# HospitalManagementSystem-Javafx-GUIBased
+This is a Hospital Management System connected to SQL Database and designed using ScreenBuilder and coded in Java and built using Javafx.
+
 ## Getting Started
 
 Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
